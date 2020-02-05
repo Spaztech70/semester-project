@@ -1,0 +1,5 @@
+Continue to refine your report; finish half of the code (approximately); 
+  have some preliminary results from at least one dataset. 
+In your stage4 folder, put the updated report, code, 
+  small datasets (if created by you), or links to your large datasets. 
+Due: 10 Apr
